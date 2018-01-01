@@ -65,9 +65,9 @@
 .icon-github:before {
   content: "\69";
 }
-.icon-ng-coa:before {
-  content: "\6a";
-}
 .icon-ng-map:before {
   content: "\6b";
+}
+.icon-ng-coa:before {
+  content: "\6a";
 }
